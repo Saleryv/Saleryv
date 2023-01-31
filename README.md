@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Valerii @Saleryv
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning React
-- 📫 How to reach me seryoginvaleryi@gmail.com
-
 <h1 align="left">Hi 👋, I'm Valerii @Saleryv</h1>
-<h3 align="left">Frontend developer from Ukraine</h3>
-
-
-- 🌱 I’m currently learning React
+<h3 align="left">Frontend developer from Ukraine 🇺🇦</h3>
+<h3 align="left">🌱 I’m currently learning React</h3>
+<h3 align="left">📫 How to reach me seryoginvaleryi@gmail.com</h3>
 
 <p align="left">
 </p>
