@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Valerii @Saleryv</h1>
 <h3 align="left">Frontend developer from Ukraine 🇺🇦</h3>
 <h3 align="left">🌱 I’m currently learning Node.js</h3>
-<h3 align="left">📫 How to reach me seryoginvaleryi@gmail.com</h3>
+<h3 align="left">📫 How to reach me seryoginvaleriy@gmail.com</h3>
 
 <p align="left">
 </p>
